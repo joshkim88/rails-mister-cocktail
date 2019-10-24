@@ -1,7 +1,24 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+Ingredient.create(name: "lemon")
+Ingredient.create(name: "ice")
+Ingredient.create(name: "mint leaves")
+Ingredient.create(name: "light rum")
+Ingredient.create(name: "applejack")
+Ingredient.create(name: "dark rum")
+Ingredient.create(name: "gin")
+Ingredient.create(name: "sweet vermouth")
+Ingredient.create(name: "strawberry schnapps")
+Ingredient.create(name: "Scotch")
+Ingredient.create(name: "apricot brandy")
+Ingredient.create(name: "coffee liqueur")
+Ingredient.create(name: "southern comfort")
+Ingredient.create(name: "brandy")
+Ingredient.create(name: "lemon vodka")
+Ingredient.create(name: "amaretto")
+Ingredient.create(name: "blended whiskey")
+Ingredient.create(name: "triple sec")
+Ingredient.create(name: "dry vermouth")
+Ingredient.create(name: "tea")
+Ingredient.create(name: "champagne")
+Ingredient.create(name: "bourbon")
+Ingredient.create(name: "tequila")
+Ingredient.create(name: "vodka")
